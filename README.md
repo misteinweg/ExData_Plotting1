@@ -1,4 +1,4 @@
-## Instructions
+## ExData Course Project 1
 
 Please take into account my R is in Spanish, this means some graphs will have days dislayed in Spanish. (Instead of "Thu", "Fri", "Sat" it will have its spanish equivalent "Jue", "Vie" "Sab")
 
